@@ -4,7 +4,7 @@ import time
 Bolsmaak = 1
 Smaken = ["A", "C", "V", "a", "c", "v", "Aardbei", "Chocolade", "Vanille", "aardbei", "chocolade", "vanille"]
 aantalbolletjes = 0
-print("Welkom bij Papi Gelato je mag alle smaken kiezen.")
+print("Welkom bij Papi Gelato")
 time.sleep(1)
 
 def bollenA():
